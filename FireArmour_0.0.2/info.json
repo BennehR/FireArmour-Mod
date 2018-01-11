@@ -1,0 +1,11 @@
+{
+    "name": "FireArmour",
+    "version": "0.0.1",
+    "title": "Fire Armour Tutorial",
+    "author": "BennehR",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod adds in fire armour that leaves behind damaging fire as you walk around."
+}
